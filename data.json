@@ -1,11 +1,44 @@
 {
-  "members": [],
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1594381898411-846e7d193883?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "name": "Ananana",
+      "email": "luiz2@gmail.com",
+      "birth": 1204416000000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "34",
+      "height": "156",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1594381898411-846e7d193883?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "name": "Jose Kevyn",
+      "email": "kevyn.gon.alu.lmb@gmail.com",
+      "birth": 1082678400000,
+      "blood": "AB+",
+      "weight": "123",
+      "height": "145"
+    },
+    {
+      "id": 6,
+      "avatar_url": "https://images.unsplash.com/photo-1576511420003-e33641629f94?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+      "name": "Carlos Diaz",
+      "email": "luiz2@gmail.com",
+      "birth": 949363200000,
+      "gender": "M",
+      "blood": "0-",
+      "weight": "98",
+      "height": "160"
+    }
+  ],
   "instructors": [
     {
       "id": 1,
       "avatar_url": "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
       "name": "Kevyn Gonçalves",
-      "birth": 1046995200000,
+      "birth": 0,
       "gender": "M",
       "services": "Boxe, Judô, Natação",
       "created_at": 1602174705835
@@ -41,7 +74,7 @@
       "id": 6,
       "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
       "name": "Carlos Magno",
-      "birth": 510969600000,
+      "birth": 534729600000,
       "gender": "M",
       "services": "Fisioterapia",
       "created_at": 1602184149834
